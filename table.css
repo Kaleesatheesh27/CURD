@@ -1,0 +1,23 @@
+
+
+
+table,td,th{
+    border:solid 1px black;
+    border-collapse:collapse;
+    
+}
+#userForm{
+    
+    display: inline-block;
+    margin-left: 500px;
+}
+#table1{
+    display: inline-block;
+    margin-left:5px;
+    margin-top: 50px;
+}
+[type="submit"]{
+   background-color: green;
+   width:100%;
+   cursor: pointer;
+}
